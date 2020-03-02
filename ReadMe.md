@@ -13,3 +13,4 @@
 11. <a href="https://kazik-man.github.io/movieAPI/">movie-api vue.js</a>
 12. <a href="https://kazik-man.github.io/AJAX/.">AJAX</a>
 13. <a href="https://kazik-man.github.io/next/.">Next site</a>
+14. <a href="https://kazik-man.github.io/movie-API/.">movie-api vue.js</a>
